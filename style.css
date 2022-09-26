@@ -10,8 +10,8 @@ body.dark{
         --bg-black-900:#151515;
         --bg-black-100:#222222;
         --bg-black-50:#393939;
-        --text-black-900:#302e4d;
-        --text-black-700:#504e70;
+        --text-black-900:rgb(192,192,192);
+        --text-black-700:rgb(128,128,128)
     }
 
 body{
